@@ -1,5 +1,5 @@
 # Data-Analyst-Intern---IT-PRO
-Project Link 
+
 
 MVC Store in Jalandhar wants to create an annual report for 202, so that it can understand their customers and grow more sales in 2023 . 
 
